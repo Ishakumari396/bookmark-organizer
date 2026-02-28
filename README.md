@@ -28,15 +28,13 @@ Bookmark-Saver/
 ├── script.js
 └── README.md
 ```
-
-
 ## 💡 How It Works
 
-1. User enters a website name and URL.
-2. JavaScript validates the input fields.
-3. Bookmark data is stored in the browser using Local Storage.
-4. Saved bookmarks are dynamically displayed on the page.
-5. Users can delete bookmarks anytime.
+1. The user enters a website name and a valid URL (e.g., https://example.com).
+2. The application validates the input to ensure the URL format is correct.
+3. Once validated, the bookmark data is stored in the browser using Local Storage.
+4. The saved bookmarks are dynamically displayed on the page.
+5. Each bookmark can be opened in a new tab or removed when no longer needed.
 
 ## 🎯 Purpose of the Project
 
@@ -61,5 +59,6 @@ https://ishakumari396.github.io/bookmark-organizer/
 ## 👩‍💻 Author
 
 Built with dedication using HTML, CSS, and JavaScript.
+
 
 
