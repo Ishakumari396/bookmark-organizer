@@ -57,10 +57,9 @@ This project was built to practice:
 - Deploy with backend support
 
 ## 🌐 Live Demo
-
-(Add your GitHub Pages link here)
-
+https://ishakumari396.github.io/bookmark-organizer/
 ## 👩‍💻 Author
 
 Built with dedication using HTML, CSS, and JavaScript.
+
 
