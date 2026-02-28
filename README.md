@@ -21,12 +21,14 @@ This project allows users to save, organize, and manage their favorite links in 
 
 ## 📂 Project Structure
 
+```
 Bookmark-Saver/
-│
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
+
 
 ## 💡 How It Works
 
@@ -61,3 +63,4 @@ This project was built to practice:
 ## 👩‍💻 Author
 
 Built with dedication using HTML, CSS, and JavaScript.
+
